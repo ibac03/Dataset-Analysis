@@ -1,0 +1,2 @@
+# Dataset-Analysis
+This repository contains programs for dataset-analysis in C and Python. The programs allows users to analyze and filter a song dataset based on specified criteria, offering functionalities such as filtering, sorting and searching.
